@@ -1,0 +1,14 @@
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\bin\Debug\net6.0\Assignment43.exe
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\bin\Debug\net6.0\Assignment43.deps.json
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\bin\Debug\net6.0\Assignment43.runtimeconfig.json
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\bin\Debug\net6.0\Assignment43.dll
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\bin\Debug\net6.0\ref\Assignment43.dll
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\bin\Debug\net6.0\Assignment43.pdb
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\obj\Debug\net6.0\Assignment43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\obj\Debug\net6.0\Assignment43.AssemblyInfoInputs.cache
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\obj\Debug\net6.0\Assignment43.AssemblyInfo.cs
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\obj\Debug\net6.0\Assignment43.csproj.CoreCompileInputs.cache
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\obj\Debug\net6.0\Assignment43.dll
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\obj\Debug\net6.0\ref\Assignment43.dll
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\obj\Debug\net6.0\Assignment43.pdb
+C:\Users\mihir patel\source\repos\Assignment43\Assignment43\obj\Debug\net6.0\Assignment43.genruntimeconfig.cache
